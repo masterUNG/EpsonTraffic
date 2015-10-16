@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="title1">
+
+        <item>ป้ายจราจร 1</item>
+        <item>ป้ายจราจร 2</item>
+        <item>ป้ายจราจร 3</item>
+        <item>ป้ายจราจร 4</item>
+        <item>ป้ายจราจร 5</item>
+        <item>ป้ายจราจร 6</item>
+        <item>ป้ายจราจร 7</item>
+        <item>ป้ายจราจร 8</item>
+        <item>ป้ายจราจร 9</item>
+        <item>ป้ายจราจร 10</item>
+        <item>ป้ายจราจร 11</item>
+        <item>ป้ายจราจร 12</item>
+        <item>ป้ายจราจร 13</item>
+        <item>ป้ายจราจร 14</item>
+        <item>ป้ายจราจร 15</item>
+        <item>ป้ายจราจร 16</item>
+        <item>ป้ายจราจร 17</item>
+        <item>ป้ายจราจร 18</item>
+        <item>ป้ายจราจร 19</item>
+        <item>ป้ายจราจร 20</item>
+
+    </string-array>
+
+    <string-array name="title2">
+
+        <item>ป้ายจราจร 1 Detail</item>
+        <item>ป้ายจราจร 2 Detail</item>
+        <item>ป้ายจราจร 3 Detail</item>
+        <item>ป้ายจราจร 4 Detail</item>
+        <item>ป้ายจราจร 5 Detail</item>
+        <item>ป้ายจราจร 6 Detail</item>
+        <item>ป้ายจราจร 7 Detail</item>
+        <item>ป้ายจราจร 8 Detail</item>
+        <item>ป้ายจราจร 9 Detail</item>
+        <item>ป้ายจราจร 10 Detail</item>
+        <item>ป้ายจราจร 11 Detail</item>
+        <item>ป้ายจราจร 12 Detail</item>
+        <item>ป้ายจราจร 13 Detail</item>
+        <item>ป้ายจราจร 14 Detail</item>
+        <item>ป้ายจราจร 15 Detail</item>
+        <item>ป้ายจราจร 16 Detail</item>
+        <item>ป้ายจราจร 17 Detail</item>
+        <item>ป้ายจราจร 18 Detail</item>
+        <item>ป้ายจราจร 19 Detail</item>
+        <item>ป้ายจราจร 20 Detail</item>
+
+    </string-array>
+
+</resources>
